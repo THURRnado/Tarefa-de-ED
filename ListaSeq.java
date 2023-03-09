@@ -1,5 +1,3 @@
-package atvidadeDeEstruturaDeDados;
-
 public class ListaSeq {
 	
 	private int[] dados;
