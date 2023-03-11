@@ -1,6 +1,4 @@
-package atividadeDeEstruturaDeDados1;
-
-public class ListaSeq {
+public class ListaSeq {
 	
 	private int[] dados;
 	private int tamMax;
