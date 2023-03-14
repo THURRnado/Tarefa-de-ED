@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//Criação de lista vazia
+				//Criação de lista vazia
 				ListaSequencial l = new ListaSequencial();
 				
 				//antes de tudo irei adicionar alguns elementos na lista
